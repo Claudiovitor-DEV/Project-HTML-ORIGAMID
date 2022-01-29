@@ -1,2 +1,2 @@
 # Project-HTML-ORIGAMID
- Projeto em HTML Basico do curso de Web Design Origamid
+Basic HTML practice project of the Origamid Web Design course, taught by Professor Andre Rafael from ORIGAMID.
